@@ -1,0 +1,1360 @@
+﻿Log file open, 11/27/18 16:37:54
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MightyNight
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.270106
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.084s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogOnline: Warning: STEAM: Steam API disabled!
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4212847
+LogInit: Engine Version: 4.20.3-4212847+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Jul 14 2018 09:51:14
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: -EpicPortal  -epicusername="BosonHUANG" -epicuserid=811bd0c0426340ad86f35240c1fb3480 -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.27-23.37.55:219][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.27-23.37.55:219][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.27-23.37.55:230][  0]LogHAL: Display: Platform has ~ 16 GB [17122476032 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.27-23.37.55:230][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.11.27-23.37.55:230][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.27-23.37.55:230][  0]LogInit: Computer: eae-d-185
+[2018.11.27-23.37.55:230][  0]LogInit: User: u1218984
+[2018.11.27-23.37.55:230][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.27-23.37.55:230][  0]LogInit: High frequency timer resolution =4.101563 MHz
+[2018.11.27-23.37.55:230][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.11.27-23.37.55:230][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.27-23.37.55:230][  0]LogMemory: Process Physical Memory: 100.32 MB used, 100.32 MB peak
+[2018.11.27-23.37.55:230][  0]LogMemory: Process Virtual Memory: 91.06 MB used, 91.06 MB peak
+[2018.11.27-23.37.55:230][  0]LogMemory: Physical Memory: 6812.39 MB used,  9516.87 MB free, 16329.27 MB total
+[2018.11.27-23.37.55:230][  0]LogMemory: Virtual Memory: 4641.66 MB used,  9516.87 MB free, 134217728.00 MB total
+[2018.11.27-23.37.55:248][  0]LogInit: Using OS detected language (en-US).
+[2018.11.27-23.37.55:248][  0]LogInit: Using OS detected locale (en-US).
+[2018.11.27-23.37.55:248][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.11.27-23.37.55:555][  0]LogStreaming: Display: Took  0.308s to InitEngineTextLocalization.
+[2018.11.27-23.37.55:555][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.27-23.37.55:596][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.27-23.37.55:596][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.27-23.37.55:757][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.27-23.37.55:757][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.27-23.37.55:802][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.11.27-23.37.55:803][  0]LogD3D11RHI:       8088/0/8164 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.11.27-23.37.55:804][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.27-23.37.55:804][  0]LogD3D11RHI:       0/0/8164 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.27-23.37.55:804][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.27-23.37.55:810][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.27-23.37.55:810][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.27-23.37.55:810][  0]LogWindows: EnumDisplayDevices:
+[2018.11.27-23.37.55:810][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.11.27-23.37.55:811][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2018.11.27-23.37.55:811][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.11.27-23.37.55:811][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.11.27-23.37.55:811][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.11.27-23.37.55:811][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.11.27-23.37.55:811][  0]LogD3D11RHI:   Driver Version: 398.36 (internal:24.21.13.9836, unified:398.36)
+[2018.11.27-23.37.55:811][  0]LogD3D11RHI:      Driver Date: 6-24-2018
+[2018.11.27-23.37.55:811][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2018.11.27-23.37.55:862][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.27-23.37.55:878][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.11.27-23.37.55:963][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Intermediate/Shaders/WorkingDirectory/6808/).
+[2018.11.27-23.37.55:963][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/u1218984/AppData/Local/Temp/UnrealShaderWorkingDir/CBDFB3004CF5B1380E0E3F91E94DDE71/'.
+[2018.11.27-23.37.56:177][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.27-23.37.56:187][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.27-23.37.56:198][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.27-23.37.56:208][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.27-23.37.56:218][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.27-23.37.56:229][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.27-23.37.56:239][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.27-23.37.56:251][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.27-23.37.56:256][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.27-23.37.56:318][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.27-23.37.56:318][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.27-23.37.56:318][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.27-23.37.56:318][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.27-23.37.56:318][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.27-23.37.56:318][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.27-23.37.56:318][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.27-23.37.56:318][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.27-23.37.56:318][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.27-23.37.56:318][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.27-23.37.56:318][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.27-23.37.56:318][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.27-23.37.56:318][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.27-23.37.56:318][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.27-23.37.56:318][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.27-23.37.56:318][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.27-23.37.56:318][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.27-23.37.56:318][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.27-23.37.56:319][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.27-23.37.56:372][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.27-23.37.56:372][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.27-23.37.56:390][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.27-23.37.56:390][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.27-23.37.56:399][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.27-23.37.56:409][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.27-23.37.56:418][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.27-23.37.56:429][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.27-23.37.56:436][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.27-23.37.56:436][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.27-23.37.56:485][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.27-23.37.56:485][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.27-23.37.56:485][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.27-23.37.57:039][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.27-23.37.57:086][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/u1218984/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.27-23.37.57:086][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/u1218984/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.11.27-23.37.57:086][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.27-23.37.57:086][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.27-23.37.57:086][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.27-23.37.57:086][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.27-23.37.57:096][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.27-23.37.57:108][  0]LogDerivedDataCache: Using Local data cache path C:/Users/u1218984/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.27-23.37.57:108][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.27-23.37.57:108][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.27-23.37.57:121][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.27-23.37.57:122][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.27-23.37.57:122][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.27-23.37.57:183][  0]LogAssetRegistry: FAssetRegistry took 0.0247 seconds to start up
+[2018.11.27-23.37.57:426][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.27-23.37.57:527][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.27-23.37.57:531][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.27-23.37.57:531][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.11.27-23.37.57:531][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.27-23.37.57:531][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.27-23.37.57:547][  0]LogNetVersion: MightyNight 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3451083448)
+[2018.11.27-23.37.57:940][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.087540 seconds
+[2018.11.27-23.37.57:945][  0]LogUObjectArray: 38434 objects as part of root set at end of initial load.
+[2018.11.27-23.37.57:945][  0]LogUObjectAllocator: 6701144 out of 0 bytes used by permanent object pool.
+[2018.11.27-23.37.57:945][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.27-23.37.58:610][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.27-23.37.58:622][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.27-23.37.58:744][  0]SourceControl: Source control is disabled
+[2018.11.27-23.37.58:744][  0]SourceControl: Source control is disabled
+[2018.11.27-23.37.58:745][  0]SourceControl: Source control is disabled
+[2018.11.27-23.37.58:746][  0]SourceControl: Source control is disabled
+[2018.11.27-23.37.58:893][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.27-23.37.58:940][  0]LogOcInput: OculusInput pre-init called
+[2018.11.27-23.37.58:990][  0]LogEngine: Initializing Engine...
+[2018.11.27-23.37.58:991][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.27-23.37.58:992][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.27-23.37.58:992][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.27-23.37.58:992][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.27-23.37.58:992][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.27-23.37.59:157][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.27-23.37.59:170][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.27-23.37.59:182][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.27-23.37.59:195][  0]LogInit: FAudioDevice initialized.
+[2018.11.27-23.37.59:195][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.27-23.37.59:251][  0]LogDerivedDataCache: Saved boot cache 0.06s 71MB C:/Users/u1218984/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.27-23.37.59:264][  0]LogInit: Texture streaming: Enabled
+[2018.11.27-23.37.59:278][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.27-23.37.59:289][  0]LogInit: Transaction tracking system initialized
+[2018.11.27-23.37.59:313][  0]BlueprintLog: New page: Editor Load
+[2018.11.27-23.37.59:377][  0]LocalizationService: Localization service is disabled
+[2018.11.27-23.37.59:591][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.27-23.37.59:591][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.27-23.37.59:591][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.27-23.37.59:591][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.27-23.37.59:591][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.27-23.37.59:591][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.27-23.37.59:591][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.27-23.37.59:686][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1218984/Documents/Unreal Projects/MightyNight/Content/' took 0.02s
+[2018.11.27-23.37.59:686][  0]SourceControl: Source control is disabled
+[2018.11.27-23.37.59:686][  0]Cmd: MAP LOAD FILE="../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.27-23.37.59:686][  0]LightingResults: New page: Lighting Build
+[2018.11.27-23.37.59:688][  0]MapCheck: New page: Map Check
+[2018.11.27-23.37.59:688][  0]LightingResults: New page: Lighting Build
+[2018.11.27-23.38.00:018][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.11.27-23.38.00:024][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.27-23.38.00:046][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.27-23.38.00:107][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 61.171ms to complete.
+[2018.11.27-23.38.00:107][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.422
+[2018.11.27-23.38.00:213][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.27-23.38.00:219][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.27-23.38.00:224][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.27-23.38.00:231][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.27-23.38.00:237][  0]LogCollectionManager: Loaded 0 collections in 0.001488 seconds
+[2018.11.27-23.38.00:278][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/Collections/' took 0.01s
+[2018.11.27-23.38.00:278][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1218984/Documents/Unreal Projects/MightyNight/Content/Developers/u1218984/Collections/' took 0.01s
+[2018.11.27-23.38.00:278][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1218984/Documents/Unreal Projects/MightyNight/Content/Collections/' took 0.01s
+[2018.11.27-23.38.00:278][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.11.27-23.38.00:285][  0]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 2576 classes and 609 folders.
+[2018.11.27-23.38.00:292][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.27-23.38.00:330][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.27-23.38.00:346][  0]LogDirectoryWatcher: Warning: Failed to begin reading directory changes for ../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Plugins/. Error: The system cannot find the file specified. (0x00000002)
+[2018.11.27-23.38.00:380][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.27-23.38.00:380][  0]LogLoad: (Engine Initialization) Total time: 6.71 seconds
+[2018.11.27-23.38.00:380][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.27-23.38.00:391][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.27-23.38.00:409][  0]LogAssetRegistry: Asset discovery search completed in 3.2475 seconds
+[2018.11.27-23.38.00:410][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.11.27-23.38.00:410][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000037 seconds (updated 0 objects)
+[2018.11.27-23.38.00:411][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.27-23.38.00:419][  0]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.27-23.38.00:421][  0]LogSlate: Took 0.000103 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.27-23.38.00:423][  0]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.27-23.38.00:490][  0]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.27-23.38.00:509][  1]LogRenderer: Reallocating scene render targets to support 804x360 Format 10 NumSamples 1 (Frame:1).
+[2018.11.27-23.38.06:524][412]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.27-23.38.06:601][412]LogSlate: Window 'Plugins' being destroyed
+[2018.11.27-23.38.06:604][412]LogSlate: Window 'Plugins' being destroyed
+[2018.11.27-23.38.06:604][412]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2018.11.27-23.38.07:609][531]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.27-23.38.14:889][948]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.27-23.39.12:855][389]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.27-23.39.19:867][104]LogSlate: Window 'New Level' being destroyed
+[2018.11.27-23.39.19:871][104]LightingResults: New page: Lighting Build
+[2018.11.27-23.39.19:872][104]MapCheck: New page: Map Check
+[2018.11.27-23.39.19:872][104]LightingResults: New page: Lighting Build
+[2018.11.27-23.39.19:893][104]LogAIModule: Creating AISystem for world Untitled
+[2018.11.27-23.39.19:897][104]LoadErrors: New page: New Map
+[2018.11.27-23.39.20:006][116]LogEditorViewport: Clicking Background
+[2018.11.27-23.39.24:273][626]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.27-23.39.24:919][704]LogEditorViewport: Clicking Background
+[2018.11.27-23.39.25:168][732]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.27-23.39.41:248][732]LogSlate: Window 'Save Level As' being destroyed
+[2018.11.27-23.39.41:251][732]LogSlate: FSceneViewport::OnFocusLost() reason 3
+[2018.11.27-23.39.41:323][732]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.27-23.39.41:361][732]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/MainMenu114585C6413E81F1EADF11AB03F639F6.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/ThirdPersonBP/Maps/MainMenu.umap'
+[2018.11.27-23.39.41:385][732]LogFileHelpers: Saving map 'MainMenu' took 0.133
+[2018.11.27-23.39.45:281][200]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.27-23.40.02:997][687]LogEditorViewport: Clicking Background
+[2018.11.27-23.53.26:987][294]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.27-23.53.41:779][741]LogMetaData: Removing '/Game/UI/MainMenu.SKEL_MainMenu_C' ref from Metadata '/Game/UI/NewWidgetBlueprint.PackageMetaData'
+[2018.11.27-23.53.41:779][741]LogMetaData: Removing '/Game/UI/MainMenu.MainMenu_C' ref from Metadata '/Game/UI/NewWidgetBlueprint.PackageMetaData'
+[2018.11.27-23.53.41:779][741]LogMetaData: Removing '/Game/UI/MainMenu.MainMenu:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UI/NewWidgetBlueprint.PackageMetaData'
+[2018.11.27-23.53.41:779][741]LogMetaData: Removing '/Game/UI/MainMenu.MainMenu:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UI/NewWidgetBlueprint.PackageMetaData'
+[2018.11.27-23.53.41:779][741]LogMetaData: Removing '/Game/UI/MainMenu.MainMenu:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UI/NewWidgetBlueprint.PackageMetaData'
+[2018.11.27-23.53.41:795][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/MainMenu.uasset" SILENT=true
+[2018.11.27-23.53.41:805][741]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/MainMenuD10AF9104C21466404E885BB47DA33DB.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/MainMenu.uasset'
+[2018.11.27-23.53.43:103][882]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2018.11.27-23.53.43:496][882]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.11.27-23.53.44:204][882]LogSlate: Took 0.003502 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.27-23.55.50:355][450]LogSlate: Took 0.023928 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.11.27-23.56.40:419][412]BlueprintLog: New page: Compile MainMenu
+[2018.11.27-23.57.27:839][272]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/MainMenu' took 0.028
+[2018.11.27-23.57.27:841][272]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/MainMenu] ([1] browsable assets)...
+[2018.11.27-23.57.27:841][272]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu]
+[2018.11.27-23.57.27:841][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/Autosaves/Game/UI/MainMenu_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.11.27-23.57.27:864][272]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/MainMenu_Auto1785905394FB7083DE3C25BAC759F59BD.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/Autosaves/Game/UI/MainMenu_Auto1.uasset'
+[2018.11.27-23.57.27:865][272]LogFileHelpers: Auto-saving content packages took 0.025
+[2018.11.28-00.12.03:713][711]LogEditorTransaction: Undo Move Widget
+[2018.11.28-00.12.20:216][126]BlueprintLog: New page: Compile MainMenu
+[2018.11.28-00.12.20:662][165]BlueprintLog: New page: Compile MainMenu
+[2018.11.28-00.12.47:825][466]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/MainMenu' took 0.020
+[2018.11.28-00.12.47:827][466]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/MainMenu] ([1] browsable assets)...
+[2018.11.28-00.12.47:827][466]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu]
+[2018.11.28-00.12.47:827][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/Autosaves/Game/UI/MainMenu_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.11.28-00.12.47:841][466]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/MainMenu_Auto2510A3E6A422A39A896C05DAF7E0289AD.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/Autosaves/Game/UI/MainMenu_Auto2.uasset'
+[2018.11.28-00.12.47:841][466]LogFileHelpers: Auto-saving content packages took 0.015
+[2018.11.28-00.13.36:305][837]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.11.28-00.13.40:580][277]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/MainGI.MainGI
+[2018.11.28-00.14.11:298][895]LogSlate: Took 0.003467 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.28-00.14.26:622][723]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:19578).
+[2018.11.28-00.14.36:315][875]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/HostGame.HostGame
+[2018.11.28-00.15.00:901][310]Cmd: TRANSACTION UNDO
+[2018.11.28-00.15.00:901][310]LogEditorTransaction: Undo Changed Anchors
+[2018.11.28-00.16.25:196][453]LogEditorTransaction: Undo Move Widget
+[2018.11.28-00.17.01:020][520]LogEditorTransaction: Undo Edit Size Rule
+[2018.11.28-00.17.12:270][400]LogEditorTransaction: Undo Move Widget
+[2018.11.28-00.17.14:509][621]PIE: UWidget::RemoveFromParent() called on '/Game/UI/HostGame.HostGame:WidgetTree.CheckBox_168' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.28-00.21.43:411][136]BlueprintLog: New page: Compile HostGame
+[2018.11.28-00.21.43:904][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HostGame" FILE="../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/HostGame.uasset" SILENT=true
+[2018.11.28-00.21.43:916][166]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/HostGame1FDE50ED4E55A7275B3ABD9A00420063.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/HostGame.uasset'
+[2018.11.28-00.22.09:201][162]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.11.28-00.23.42:352][  3]BlueprintLog: New page: Compile MainGI
+[2018.11.28-00.25.55:333][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/MainMenu.uasset" SILENT=true
+[2018.11.28-00.25.55:351][598]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/MainMenuE5D3626046AC07727809BBBD7FCA748A.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/MainMenu.uasset'
+[2018.11.28-00.26.05:533][264]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/MainGIBD52FD094B08DDBC3E4866B52ADB75BF.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/ThirdPersonBP/Blueprints/MainGI.uasset'
+[2018.11.28-00.26.26:284][772]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.11.28-00.26.44:952][742]LogSlate: Window 'Create New GameMode' being destroyed
+[2018.11.28-00.26.48:510][829]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/MainMenu_Auto33731421A4C7BC457E243C6949BE38178.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/Autosaves/Game/ThirdPersonBP/Maps/MainMenu_Auto3.umap'
+[2018.11.28-00.26.48:512][829]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/MainMenu' took 0.039
+[2018.11.28-00.26.48:513][829]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.039
+[2018.11.28-00.26.48:514][829]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/MainMenuGM] ([1] browsable assets)...
+[2018.11.28-00.26.48:514][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/MainMenuGM]
+[2018.11.28-00.26.48:522][829]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/MainMenuGM_Auto34D28FDB94631829D89833DBBA9F3541B.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/Autosaves/Game/Blueprints/MainMenuGM_Auto3.uasset'
+[2018.11.28-00.26.48:523][829]LogFileHelpers: Auto-saving content packages took 0.010
+[2018.11.28-00.26.58:451][792]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/MainMenuGM.MainMenuGM
+[2018.11.28-00.27.12:955][217]LogEditorTransaction: Undo Add Node
+[2018.11.28-00.27.14:355][264]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.11.28-00.28.29:826][551]BlueprintLog: New page: Compile MainMenuGM
+[2018.11.28-00.28.30:223][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainMenuGM" FILE="../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/Blueprints/MainMenuGM.uasset" SILENT=true
+[2018.11.28-00.28.30:236][582]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/MainMenuGMAEB800944DAE0C4E68D7528BE75FAE6A.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/Blueprints/MainMenuGM.uasset'
+[2018.11.28-00.28.34:016][882]LogTemp: Repeating last play command: Standalone Game
+[2018.11.28-00.28.35:990][882]LogSlate: Window 'Save Content' being destroyed
+[2018.11.28-00.28.36:107][882]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/MainMenuA2B176CA42A794056AA354ACEE7C76B2.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/ThirdPersonBP/Maps/MainMenu.umap'
+[2018.11.28-00.28.36:124][882]LogFileHelpers: Saving map 'MainMenu' took 0.118
+[2018.11.28-00.29.29:677][574]BlueprintLog: New page: Compile MainMenu
+[2018.11.28-00.29.30:128][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/MainMenu.uasset" SILENT=true
+[2018.11.28-00.29.30:142][620]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/MainMenu744CB78D432DE8F7A666FFA857F37D9E.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/MainMenu.uasset'
+[2018.11.28-00.29.36:786][269]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.11.28-00.29.48:399][536]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.11.28-00.29.48:452][537]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MightyNight
+[2018.11.28-00.29.48:452][537]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.11.28-00.29.48:452][537]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.20
+[2018.11.28-00.29.48:452][537]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.11.28-00.29.48:452][537]LogTemp: BranchPath = eae-d-185/C/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = eae-d-185/C/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2018.11.28-00.29.48:476][538]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\u1218984\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.11.28-00.30.06:269][526]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.11.28-00.30.09:046][850]LogSlate: Window 'Project Settings' being destroyed
+[2018.11.28-00.30.09:050][850]LogSlate: Window 'Project Settings' being destroyed
+[2018.11.28-00.30.10:775][898]LogTemp: Repeating last play command: Standalone Game
+[2018.11.28-00.31.16:180][444]LogTemp: Repeating last play command: Standalone Game
+[2018.11.28-00.32.17:445][553]LogEditorTransaction: Undo Add Node
+[2018.11.28-00.33.08:308][410]BlueprintLog: New page: Compile MainGI
+[2018.11.28-00.33.11:495][781]LogRenderer: Reallocating scene render targets to support 1208x744 Format 10 NumSamples 1 (Frame:102).
+[2018.11.28-00.33.14:496][128]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/MainGI00610D214B8283216D4FD3BEF9E3B8D9.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/ThirdPersonBP/Blueprints/MainGI.uasset'
+[2018.11.28-00.33.47:065][453]BlueprintLog: New page: Compile MainMenu
+[2018.11.28-00.33.47:310][469]BlueprintLog: New page: Compile MainMenu
+[2018.11.28-00.33.54:557][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/MainMenu.uasset" SILENT=true
+[2018.11.28-00.33.54:576][215]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/MainMenu46AA566F4A0763D3D4C411B3C54E5E20.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/MainMenu.uasset'
+[2018.11.28-00.33.56:727][364]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/HostGame.HostGame
+[2018.11.28-00.34.02:516][826]BlueprintLog: New page: Compile HostGame
+[2018.11.28-00.34.02:971][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HostGame" FILE="../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/HostGame.uasset" SILENT=true
+[2018.11.28-00.34.02:987][858]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/HostGame9F357E364359D75E0B5F95BED7FE8898.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/HostGame.uasset'
+[2018.11.28-00.34.05:096][ 32]LogTemp: Repeating last play command: Standalone Game
+[2018.11.28-00.34.52:403][583]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.28-00.34.52:404][583]LogOnline: Warning: STEAM: Steam API disabled!
+[2018.11.28-00.34.52:404][583]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2018.11.28-00.34.52:418][583]PIE: New page: PIE session: MainMenu (Nov 27, 2018, 10:34:52 AM)
+[2018.11.28-00.34.52:418][583]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu
+[2018.11.28-00.34.52:419][583]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001126s)
+[2018.11.28-00.34.52:419][583]LogAIModule: Creating AISystem for world MainMenu
+[2018.11.28-00.34.52:420][583]LogPlayLevel: PIE: World Init took: (0.000576s)
+[2018.11.28-00.34.52:420][583]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MainMenu.MainMenu to /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001797s)
+[2018.11.28-00.34.52:450][583]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.28-00.34.52:460][583]LogInit: FAudioDevice initialized.
+[2018.11.28-00.34.52:504][583]LogLoad: Game class is 'MainMenuGM_C'
+[2018.11.28-00.34.52:505][583]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.11.27-17.34.52
+[2018.11.28-00.34.52:505][583]LogWorld: Bringing up level for play took: 0.000266
+[2018.11.28-00.34.52:524][583]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 10 classes and 0 folders.
+[2018.11.28-00.34.52:526][583]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu 0.21
+[2018.11.28-00.34.55:313][800]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-00.34.55:347][800]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.28-00.34.55:373][800]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-00.34.55:418][802]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.11.28-00.36.11:933][684]BlueprintLog: New page: Compile HostGame
+[2018.11.28-00.36.12:360][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HostGame" FILE="../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/HostGame.uasset" SILENT=true
+[2018.11.28-00.36.12:372][711]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/HostGame5459899B4D327331C653AAA5FA709107.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/HostGame.uasset'
+[2018.11.28-00.36.48:428][152]BlueprintLog: New page: Compile HostGame
+[2018.11.28-00.36.48:983][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HostGame" FILE="../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/HostGame.uasset" SILENT=true
+[2018.11.28-00.36.48:997][210]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/HostGame565C694841ECCA4C86E3AEA11EDD1178.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/HostGame.uasset'
+[2018.11.28-00.37.28:695][802]LogSlate: Took 0.003456 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.11.28-00.38.55:514][416]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.11.28-00.38.57:167][610]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2018.11.28-00.38.58:294][610]LogSlate: Window 'Save Content' being destroyed
+[2018.11.28-00.39.13:334][143]BlueprintLog: New page: Compile MainGI
+[2018.11.28-00.39.13:772][183]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/MainGI3BDAF07A4E1F6B4103FE328388B5AC3B.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/ThirdPersonBP/Blueprints/MainGI.uasset'
+[2018.11.28-00.39.17:435][619]BlueprintLog: New page: Compile HostGame
+[2018.11.28-00.39.41:207][458]BlueprintLog: New page: Compile MainGI
+[2018.11.28-00.39.41:762][502]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/MainGI993488F84B3D974B0908189F1A5A258D.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/ThirdPersonBP/Blueprints/MainGI.uasset'
+[2018.11.28-00.40.27:024][987]LogEditorTransaction: Undo Add Node
+[2018.11.28-00.41.41:100][627]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/MainMenu' took 0.023
+[2018.11.28-00.41.41:101][627]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/HostGame] ([1] browsable assets)...
+[2018.11.28-00.41.41:101][627]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/HostGame]
+[2018.11.28-00.41.41:101][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HostGame" FILE="../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/Autosaves/Game/UI/HostGame_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2018.11.28-00.41.41:121][627]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/HostGame_Auto4D1ACBF704BA88E7F0CFBD9BDCA9DEABD.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/Autosaves/Game/UI/HostGame_Auto4.uasset'
+[2018.11.28-00.41.41:122][627]LogFileHelpers: Auto-saving content packages took 0.021
+[2018.11.28-00.43.15:223][682]BlueprintLog: New page: Compile MainGI
+[2018.11.28-00.43.15:479][690]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/MainGIDFA403DC465C94BA1C91B9AA038CB8F6.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/ThirdPersonBP/Blueprints/MainGI.uasset'
+[2018.11.28-00.43.27:477][ 88]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.28-00.43.27:494][ 88]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.28-00.43.27:494][ 88]PIE: New page: PIE session: MainMenu (Nov 27, 2018, 10:43:27 AM)
+[2018.11.28-00.43.27:494][ 88]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu
+[2018.11.28-00.43.27:495][ 88]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000504s)
+[2018.11.28-00.43.27:495][ 88]LogAIModule: Creating AISystem for world MainMenu
+[2018.11.28-00.43.27:496][ 88]LogPlayLevel: PIE: World Init took: (0.000546s)
+[2018.11.28-00.43.27:496][ 88]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MainMenu.MainMenu to /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001141s)
+[2018.11.28-00.43.27:525][ 88]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.28-00.43.27:535][ 88]LogInit: FAudioDevice initialized.
+[2018.11.28-00.43.27:568][ 88]LogLoad: Game class is 'MainMenuGM_C'
+[2018.11.28-00.43.27:569][ 88]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.11.27-17.43.27
+[2018.11.28-00.43.27:569][ 88]LogWorld: Bringing up level for play took: 0.000443
+[2018.11.28-00.43.27:582][ 88]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu -0.733
+[2018.11.28-00.43.37:261][210]LogInit: WinSock: I am eae-d-185 (155.97.29.195:0)
+[2018.11.28-00.43.37:264][210]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?listen
+[2018.11.28-00.43.37:264][210]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?listen
+[2018.11.28-00.43.37:288][210]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.11.28-00.43.37:304][210]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015364s)
+[2018.11.28-00.43.37:304][210]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.11.28-00.43.37:305][210]LogPlayLevel: PIE: World Init took: (0.000567s)
+[2018.11.28-00.43.37:305][210]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016073s)
+[2018.11.28-00.43.37:305][210]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.28-00.43.37:306][210]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.11.28-00.43.37:306][210]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2018.11.28-00.43.37:306][210]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.11.28-00.43.37:308][210]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2018.11.28-00.43.37:308][210]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.11.28-00.43.37:309][210]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.11.28-00.43.37:310][210]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 7777
+[2018.11.28-00.43.37:313][210]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.11.27-17.43.37
+[2018.11.28-00.43.37:313][210]LogWorld: Bringing up level for play took: 0.002824
+[2018.11.28-00.43.37:314][210]LogLoad: Took 0.050765 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap)
+[2018.11.28-00.43.45:386][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-00.43.45:464][139]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-00.43.45:495][139]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.28-00.43.45:522][139]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-00.43.45:522][139]LogExit: GameNetDriver None shut down
+[2018.11.28-00.43.45:561][143]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.11.28-00.45.19:057][883]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/SearchGames.SearchGames
+[2018.11.28-00.47.09:018][979]Cmd: TRANSACTION UNDO
+[2018.11.28-00.47.09:018][979]LogEditorTransaction: Undo Animatable Property Changed
+[2018.11.28-00.47.09:207][996]Cmd: TRANSACTION UNDO
+[2018.11.28-00.47.09:207][996]LogEditorTransaction: Undo Animatable Property Changed
+[2018.11.28-00.47.09:504][ 21]Cmd: TRANSACTION UNDO
+[2018.11.28-00.47.09:504][ 21]LogEditorTransaction: Undo Animatable Property Changed
+[2018.11.28-00.47.09:840][ 56]Cmd: TRANSACTION UNDO
+[2018.11.28-00.47.09:841][ 56]LogEditorTransaction: Undo Animatable Property Changed
+[2018.11.28-00.47.10:139][ 87]Cmd: TRANSACTION UNDO
+[2018.11.28-00.47.10:139][ 87]LogEditorTransaction: Undo Animatable Property Changed
+[2018.11.28-00.47.10:399][114]Cmd: TRANSACTION UNDO
+[2018.11.28-00.47.10:399][114]LogEditorTransaction: Undo Animatable Property Changed
+[2018.11.28-00.47.10:618][137]Cmd: TRANSACTION UNDO
+[2018.11.28-00.47.10:618][137]LogEditorTransaction: Undo Animatable Property Changed
+[2018.11.28-00.47.10:809][157]Cmd: TRANSACTION UNDO
+[2018.11.28-00.47.10:809][157]LogEditorTransaction: Undo Animatable Property Changed
+[2018.11.28-00.47.11:001][177]Cmd: TRANSACTION UNDO
+[2018.11.28-00.47.11:001][177]LogEditorTransaction: Undo Animatable Property Changed
+[2018.11.28-00.47.11:174][195]Cmd: TRANSACTION UNDO
+[2018.11.28-00.47.11:174][195]LogEditorTransaction: Undo Animatable Property Changed
+[2018.11.28-00.47.11:319][210]Cmd: TRANSACTION UNDO
+[2018.11.28-00.47.11:320][210]LogEditorTransaction: Undo Animatable Property Changed
+[2018.11.28-00.47.11:484][227]Cmd: TRANSACTION UNDO
+[2018.11.28-00.47.11:484][227]LogEditorTransaction: Undo Animatable Property Changed
+[2018.11.28-00.47.11:648][244]Cmd: TRANSACTION UNDO
+[2018.11.28-00.47.11:648][244]LogEditorTransaction: Undo Animatable Property Changed
+[2018.11.28-00.47.11:801][259]Cmd: TRANSACTION UNDO
+[2018.11.28-00.47.11:801][259]LogEditorTransaction: Undo Animatable Property Changed
+[2018.11.28-00.47.12:167][297]Cmd: TRANSACTION UNDO
+[2018.11.28-00.47.12:167][297]LogEditorTransaction: Undo Animatable Property Changed
+[2018.11.28-00.47.13:496][436]Cmd: TRANSACTION UNDO
+[2018.11.28-00.47.13:496][436]LogEditorTransaction: Undo Animatable Property Changed
+[2018.11.28-00.47.13:663][453]Cmd: TRANSACTION UNDO
+[2018.11.28-00.47.13:663][453]LogEditorTransaction: Undo Animatable Property Changed
+[2018.11.28-00.47.13:823][468]Cmd: TRANSACTION UNDO
+[2018.11.28-00.47.13:823][468]LogEditorTransaction: Undo Animatable Property Changed
+[2018.11.28-00.47.13:983][482]Cmd: TRANSACTION UNDO
+[2018.11.28-00.47.13:983][482]LogEditorTransaction: Undo Animatable Property Changed
+[2018.11.28-00.47.14:152][497]Cmd: TRANSACTION UNDO
+[2018.11.28-00.47.14:152][497]LogEditorTransaction: Undo Animatable Property Changed
+[2018.11.28-00.47.14:361][516]Cmd: TRANSACTION UNDO
+[2018.11.28-00.47.14:361][516]LogEditorTransaction: Undo Animatable Property Changed
+[2018.11.28-00.47.14:572][535]Cmd: TRANSACTION UNDO
+[2018.11.28-00.47.14:572][535]LogEditorTransaction: Undo Animatable Property Changed
+[2018.11.28-00.47.14:782][554]Cmd: TRANSACTION UNDO
+[2018.11.28-00.47.14:782][554]LogEditorTransaction: Undo Animatable Property Changed
+[2018.11.28-00.47.14:995][573]Cmd: TRANSACTION UNDO
+[2018.11.28-00.47.14:995][573]LogEditorTransaction: Undo Animatable Property Changed
+[2018.11.28-00.47.15:184][590]Cmd: TRANSACTION UNDO
+[2018.11.28-00.47.15:184][590]LogEditorTransaction: Undo Animatable Property Changed
+[2018.11.28-00.47.15:328][603]Cmd: TRANSACTION UNDO
+[2018.11.28-00.47.15:328][603]LogEditorTransaction: Undo Animatable Property Changed
+[2018.11.28-00.47.15:489][617]Cmd: TRANSACTION UNDO
+[2018.11.28-00.47.15:489][617]LogEditorTransaction: Undo Animatable Property Changed
+[2018.11.28-00.47.16:242][679]LogEditorTransaction: Undo Animatable Property Changed
+[2018.11.28-00.47.16:467][696]LogEditorTransaction: Undo Animatable Property Changed
+[2018.11.28-00.47.16:666][711]LogEditorTransaction: Undo Animatable Property Changed
+[2018.11.28-00.47.16:872][726]LogEditorTransaction: Undo Animatable Property Changed
+[2018.11.28-00.47.17:032][738]LogEditorTransaction: Undo Animatable Property Changed
+[2018.11.28-00.50.27:684][787]BlueprintLog: New page: Compile SearchGames
+[2018.11.28-00.50.28:261][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/SearchGames" FILE="../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/SearchGames.uasset" SILENT=true
+[2018.11.28-00.50.28:274][805]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/SearchGames2288B5C24EAF399CA8AE6A9C45131C60.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/SearchGames.uasset'
+[2018.11.28-00.50.52:222][716]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  HostGameMenu  and was replaced as a Custom Event!
+[2018.11.28-00.51.08:100][441]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.11.28-00.51.32:094][702]BlueprintLog: New page: Compile MainGI
+[2018.11.28-00.51.32:446][708]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/MainGIDF74F15A451E0347F26143B05BF87FE6.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/ThirdPersonBP/Blueprints/MainGI.uasset'
+[2018.11.28-00.51.33:932][882]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HostGame" FILE="../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/HostGame.uasset" SILENT=true
+[2018.11.28-00.51.33:952][882]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/HostGameCE56012E4B7279225A38BA93D4698793.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/HostGame.uasset'
+[2018.11.28-00.52.10:930][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/MainMenu.uasset" SILENT=true
+[2018.11.28-00.52.10:950][ 89]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/MainMenu6ED4964D4A557CDCAD16469BF4913DA2.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/MainMenu.uasset'
+[2018.11.28-00.52.12:410][262]BlueprintLog: New page: Compile MainMenu
+[2018.11.28-00.52.12:808][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/MainMenu.uasset" SILENT=true
+[2018.11.28-00.52.12:824][292]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/MainMenuBEFAC6B345AA363DC352CC92CD5FA466.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/MainMenu.uasset'
+[2018.11.28-00.53.26:344][340]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/MainMenu' took 0.025
+[2018.11.28-00.53.26:345][340]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/SearchGames] ([1] browsable assets)...
+[2018.11.28-00.53.26:345][340]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/SearchGames]
+[2018.11.28-00.53.26:362][340]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/SearchGames_Auto5C5FF46BF412DB220FF7CEB9AA8E7212D.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/Autosaves/Game/UI/SearchGames_Auto5.uasset'
+[2018.11.28-00.53.26:363][340]LogFileHelpers: Auto-saving content packages took 0.018
+[2018.11.28-00.55.16:002][895]LogClass: Warning: Type mismatch in Seesions of SKEL_SearchGames_C - Previous (StructProperty) Current(ArrayProperty) for package:  FObjectReader
+[2018.11.28-00.55.20:024][374]BlueprintLog: New page: Compile SearchGames
+[2018.11.28-00.55.59:094][525]BlueprintLog: New page: Compile SearchGames
+[2018.11.28-00.56.35:869][888]LogEditorTransaction: Undo Add Node
+[2018.11.28-00.57.56:841][501]BlueprintLog: New page: Compile SearchGames
+[2018.11.28-00.58.15:098][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/GamesSessions" FILE="../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/GamesSessions.uasset" SILENT=true
+[2018.11.28-00.58.15:107][479]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/GamesSessionsA302C83D45C872EB16F3AB9552E2029E.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/GamesSessions.uasset'
+[2018.11.28-00.58.17:385][749]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/GamesSessions.GamesSessions
+[2018.11.28-00.59.25:031][985]LogEditorTransaction: Undo Add Widget
+[2018.11.28-00.59.37:620][982]BlueprintLog: New page: Compile GamesSessions
+[2018.11.28-00.59.37:956][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/GamesSessions" FILE="../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/GamesSessions.uasset" SILENT=true
+[2018.11.28-00.59.37:972][991]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/GamesSessions2C1E31E041F40FBE5EB405A06E2FF2C4.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/GamesSessions.uasset'
+[2018.11.28-01.01.18:510][695]BlueprintLog: New page: Compile SearchGames
+[2018.11.28-01.01.18:818][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/SearchGames" FILE="../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/SearchGames.uasset" SILENT=true
+[2018.11.28-01.01.18:846][696]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/SearchGames71AA7B804CA598032BDA298D4A54924A.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/SearchGames.uasset'
+[2018.11.28-01.01.46:560][810]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.11.28-01.02.51:460][984]BlueprintLog: New page: Compile GamesSessions
+[2018.11.28-01.02.51:462][984]LogBlueprint: Warning: [Compiler GamesSessions] Variable session is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2018.11.28-01.02.51:465][984]LogBlueprint: Warning: [Compiler GamesSessions] Variable session is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2018.11.28-01.02.51:502][984]LogBlueprint: Warning: [Compiler GamesSessions] [5097.83] Compile of GamesSessions successful, but with 2 Warning(s) [in 42 ms] (/Game/UI/GamesSessions.GamesSessions)
+[2018.11.28-01.02.52:025][ 45]BlueprintLog: New page: Compile GamesSessions
+[2018.11.28-01.02.52:027][ 45]LogBlueprint: Warning: [Compiler GamesSessions] Variable session is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2018.11.28-01.02.52:029][ 45]LogBlueprint: Warning: [Compiler GamesSessions] Variable session is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2018.11.28-01.02.52:063][ 45]LogBlueprint: Warning: [Compiler GamesSessions] [5098.39] Compile of GamesSessions successful, but with 2 Warning(s) [in 37 ms] (/Game/UI/GamesSessions.GamesSessions)
+[2018.11.28-01.03.06:323][281]BlueprintLog: New page: Compile GamesSessions
+[2018.11.28-01.03.07:465][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/GamesSessions" FILE="../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/GamesSessions.uasset" SILENT=true
+[2018.11.28-01.03.07:480][409]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/GamesSessionsB0E726CE428166C0E6FB3D91CF1089A7.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/GamesSessions.uasset'
+[2018.11.28-01.03.20:560][221]BlueprintLog: New page: Compile SearchGames
+[2018.11.28-01.03.20:643][223]BlueprintLog: New page: Compile SearchGames
+[2018.11.28-01.03.22:097][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/SearchGames" FILE="../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/SearchGames.uasset" SILENT=true
+[2018.11.28-01.03.22:121][388]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/SearchGamesFC02E73B4E9B77C8FE96EEA72E0317BC.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/SearchGames.uasset'
+[2018.11.28-01.03.57:858][952]BlueprintLog: New page: Compile GamesSessions
+[2018.11.28-01.03.58:309][998]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/GamesSessions" FILE="../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/GamesSessions.uasset" SILENT=true
+[2018.11.28-01.03.58:322][998]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/GamesSessionsA3FC31EC465FBAC49BCF71A138275F3F.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/GamesSessions.uasset'
+[2018.11.28-01.04.01:444][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/SearchGames" FILE="../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/SearchGames.uasset" SILENT=true
+[2018.11.28-01.04.01:465][367]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/SearchGames204D9603422DC7F52AFC4E8098EE4C79.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/SearchGames.uasset'
+[2018.11.28-01.04.24:811][ 54]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/SearchGames.SearchGames
+[2018.11.28-01.05.00:037][871]LogSlate: Window 'Change Variable Type' being destroyed
+[2018.11.28-01.05.10:815][210]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.11.28-01.05.10:818][210]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.11.28-01.05.29:541][759]BlueprintLog: New page: Compile GamesSessions
+[2018.11.28-01.05.29:551][759]LogClass: Warning: Type mismatch in name of GamesSessions_C - Previous (TextProperty) Current(ArrayProperty) for package:  FObjectReader
+[2018.11.28-01.05.43:648][611]LogSlate: Window 'Change Variable Type' being destroyed
+[2018.11.28-01.05.45:286][792]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.11.28-01.05.45:289][792]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.11.28-01.06.12:426][513]BlueprintLog: New page: Compile GamesSessions
+[2018.11.28-01.06.12:436][513]LogBlueprint: Error: [Compiler GamesSessions] Binding: Property ' Text Delegate ' on Widget ' TextBlock_14 ': Binding: 'None' : 'None' was not found on 'Games Sessions'.
+[2018.11.28-01.06.12:437][513]LogClass: Warning: Type mismatch in name of GamesSessions_C - Previous (ArrayProperty) Current(TextProperty) for package:  FObjectReader
+[2018.11.28-01.06.12:551][513]LogBlueprint: Warning: [Compiler GamesSessions] [5298.88] Compile of GamesSessions failed. 1 Fatal Issue(s) 0 Warning(s) [in 126 ms] (/Game/UI/GamesSessions.GamesSessions)
+[2018.11.28-01.06.12:847][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/GamesSessions" FILE="../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/GamesSessions.uasset" SILENT=true
+[2018.11.28-01.06.12:864][546]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/GamesSessions27E13A5D457FC0E2FE89C892865834C6.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/GamesSessions.uasset'
+[2018.11.28-01.06.13:551][628]BlueprintLog: New page: Compile GamesSessions
+[2018.11.28-01.06.13:555][628]LogBlueprint: Error: [Compiler GamesSessions] Binding: Property ' Text Delegate ' on Widget ' TextBlock_14 ': Binding: 'None' : 'None' was not found on 'Games Sessions'.
+[2018.11.28-01.06.13:591][628]LogBlueprint: Warning: [Compiler GamesSessions] [5299.92] Compile of GamesSessions failed. 1 Fatal Issue(s) 0 Warning(s) [in 39 ms] (/Game/UI/GamesSessions.GamesSessions)
+[2018.11.28-01.06.14:999][795]LogBlueprint: Warning: Unknown type of hyperlinked object (TextDelegate), cannot focus it
+[2018.11.28-01.06.15:881][900]LogBlueprint: Warning: Unknown type of hyperlinked object (TextBlock_14), cannot focus it
+[2018.11.28-01.06.49:170][599]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/MainMenu' took 0.024
+[2018.11.28-01.06.49:172][599]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/GamesSessions] ([1] browsable assets)...
+[2018.11.28-01.06.49:172][599]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/GamesSessions]
+[2018.11.28-01.06.49:182][599]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/GamesSessions_Auto613B62C7A4234BDE132FB39A921BF7526.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/Autosaves/Game/UI/GamesSessions_Auto6.uasset'
+[2018.11.28-01.06.49:183][599]LogFileHelpers: Auto-saving content packages took 0.012
+[2018.11.28-01.08.26:840][608]BlueprintLog: New page: Compile GamesSessions
+[2018.11.28-01.08.27:207][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/GamesSessions" FILE="../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/GamesSessions.uasset" SILENT=true
+[2018.11.28-01.08.27:220][644]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/GamesSessionsCD74F2504EBD4322A6A04782DE5BCED3.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/GamesSessions.uasset'
+[2018.11.28-01.08.58:976][ 38]BlueprintLog: New page: Compile SearchGames
+[2018.11.28-01.10.44:853][259]BlueprintLog: New page: Compile GamesSessions
+[2018.11.28-01.10.45:176][290]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/GamesSessions" FILE="../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/GamesSessions.uasset" SILENT=true
+[2018.11.28-01.10.45:190][290]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/GamesSessions2180D16745C97A38D18A82B6955B48B8.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/GamesSessions.uasset'
+[2018.11.28-01.10.47:760][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HostGame" FILE="../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/HostGame.uasset" SILENT=true
+[2018.11.28-01.10.47:781][595]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/HostGame26BBAC7B4BD1EA70A6373CBDAAB15962.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/HostGame.uasset'
+[2018.11.28-01.13.12:770][523]BlueprintLog: New page: Compile SearchGames
+[2018.11.28-01.13.13:096][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/SearchGames" FILE="../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/SearchGames.uasset" SILENT=true
+[2018.11.28-01.13.13:122][552]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/SearchGames4CEBFB10464568360D8E96BD6F677FEF.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/SearchGames.uasset'
+[2018.11.28-01.14.09:777][260]BlueprintLog: New page: Compile SearchGames
+[2018.11.28-01.14.43:149][910]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.11.28-01.14.43:210][911]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MightyNight
+[2018.11.28-01.14.43:210][911]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.11.28-01.14.43:210][911]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.20
+[2018.11.28-01.14.43:210][911]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.11.28-01.14.43:210][911]LogTemp: BranchPath = eae-d-185/C/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = eae-d-185/C/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2018.11.28-01.14.43:210][911]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\u1218984\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.11.28-01.15.15:036][374]LogSlate: Window 'Project Settings' being destroyed
+[2018.11.28-01.15.15:040][374]LogSlate: Window 'Project Settings' being destroyed
+[2018.11.28-01.15.20:277][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/SearchGames" FILE="../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/SearchGames.uasset" SILENT=true
+[2018.11.28-01.15.20:300][775]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/SearchGames599D2FBC4A6BD0F1C2D2E797CA05F27B.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/SearchGames.uasset'
+[2018.11.28-01.17.14:363][329]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/MainMenu' took 0.026
+[2018.11.28-01.17.14:365][329]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/MainGI] ([1] browsable assets)...
+[2018.11.28-01.17.14:365][329]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/MainGI]
+[2018.11.28-01.17.14:388][329]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/MainGI_Auto715637F694DC79702A0F8F6BDDE7C9E79.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/MainGI_Auto7.uasset'
+[2018.11.28-01.17.14:390][329]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/GamesSessions] ([1] browsable assets)...
+[2018.11.28-01.17.14:390][329]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/GamesSessions]
+[2018.11.28-01.17.14:407][329]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/GamesSessions_Auto7376BFEB045AD8F2BB7954D933AB8B081.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/Autosaves/Game/UI/GamesSessions_Auto7.uasset'
+[2018.11.28-01.17.14:408][329]LogFileHelpers: Auto-saving content packages took 0.044
+[2018.11.28-01.18.37:987][234]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/MainGI01E93D6E49496FA12659E79FA820FA35.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/ThirdPersonBP/Blueprints/MainGI.uasset'
+[2018.11.28-01.19.32:897][613]BlueprintLog: New page: Compile GamesSessions
+[2018.11.28-01.19.32:905][613]LogBlueprint: Warning: [Compiler GamesSessions] Could not find the function 'Join' called from  Join
+[2018.11.28-01.19.33:018][613]LogBlueprint: Warning: [Compiler GamesSessions] [6099.35] Compile of GamesSessions successful, but with 1 Warning(s) [in 121 ms] (/Game/UI/GamesSessions.GamesSessions)
+[2018.11.28-01.19.33:419][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/GamesSessions" FILE="../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/GamesSessions.uasset" SILENT=true
+[2018.11.28-01.19.33:437][657]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/GamesSessions00F052BE4F1096D3EF8CF6A189C143D3.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/GamesSessions.uasset'
+[2018.11.28-01.19.43:418][811]BlueprintLog: New page: Compile MainGI
+[2018.11.28-01.19.43:462][811]LogBlueprint: Error: [Compiler GamesSessions] In use pin  Session  no longer exists on node  Join . Please refresh node or break links to remove pin.
+[2018.11.28-01.19.43:472][811]LogBlueprint: Warning: [Compiler GamesSessions] [6109.80] Compile of GamesSessions failed. 1 Fatal Issue(s) 0 Warning(s) [in 49 ms] (/Game/UI/GamesSessions.GamesSessions)
+[2018.11.28-01.19.44:033][847]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/MainGI22A1C5C04BC78ED3F5D3F9A592ABE17F.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/ThirdPersonBP/Blueprints/MainGI.uasset'
+[2018.11.28-01.20.21:285][561]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/GamesSessions" FILE="../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/GamesSessions.uasset" SILENT=true
+[2018.11.28-01.20.21:304][561]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/GamesSessions600977BC40AD73014265A0B9DB36D347.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/GamesSessions.uasset'
+[2018.11.28-01.20.21:834][624]BlueprintLog: New page: Compile GamesSessions
+[2018.11.28-01.20.22:658][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/GamesSessions" FILE="../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/GamesSessions.uasset" SILENT=true
+[2018.11.28-01.20.22:675][705]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/GamesSessions9C72C6454CA2ADC9AB650BB17E8067D3.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/GamesSessions.uasset'
+[2018.11.28-01.20.43:753][129]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/MainMenuGM.MainMenuGM
+[2018.11.28-01.22.28:671][  2]BlueprintLog: New page: Compile MainMenuGM
+[2018.11.28-01.22.29:304][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainMenuGM" FILE="../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/Blueprints/MainMenuGM.uasset" SILENT=true
+[2018.11.28-01.22.29:322][ 56]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/MainMenuGM6DC345AD41FA996CD04DD7ABF038DA02.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/Blueprints/MainMenuGM.uasset'
+[2018.11.28-01.22.55:085][941]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2018.11.28-01.23.01:810][  8]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2018.11.28-01.23.48:002][ 78]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainMenuGM" FILE="../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/Blueprints/MainMenuGM.uasset" SILENT=true
+[2018.11.28-01.23.48:015][ 78]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/MainMenuGMBDDDBB714974976580B656AA506394E1.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/Blueprints/MainMenuGM.uasset'
+[2018.11.28-01.23.48:948][188]BlueprintLog: New page: Compile MainMenuGM
+[2018.11.28-01.23.49:538][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainMenuGM" FILE="../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/Blueprints/MainMenuGM.uasset" SILENT=true
+[2018.11.28-01.23.49:551][236]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/MainMenuGM6E3FEE264AF9D0785607FC99415E9054.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/Blueprints/MainMenuGM.uasset'
+[2018.11.28-01.25.53:541][389]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.28-01.25.53:568][389]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.28-01.25.53:568][389]PIE: New page: PIE session: MainMenu (Nov 27, 2018, 11:25:53 AM)
+[2018.11.28-01.25.53:568][389]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu
+[2018.11.28-01.25.53:569][389]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000575s)
+[2018.11.28-01.25.53:569][389]LogAIModule: Creating AISystem for world MainMenu
+[2018.11.28-01.25.53:570][389]LogPlayLevel: PIE: World Init took: (0.000560s)
+[2018.11.28-01.25.53:570][389]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MainMenu.MainMenu to /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001219s)
+[2018.11.28-01.25.53:604][389]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.28-01.25.53:614][389]LogInit: FAudioDevice initialized.
+[2018.11.28-01.25.53:646][389]LogLoad: Game class is 'MainMenuGM_C'
+[2018.11.28-01.25.53:647][389]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.11.27-18.25.53
+[2018.11.28-01.25.53:647][389]LogWorld: Bringing up level for play took: 0.000263
+[2018.11.28-01.25.53:660][389]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu -0.655
+[2018.11.28-01.26.00:427][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-01.26.00:460][718]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.28-01.26.00:489][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-01.26.00:542][721]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2018.11.28-01.26.28:290][989]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.11.28-01.26.31:136][316]BlueprintLog: New page: Compile MainGI
+[2018.11.28-01.26.31:751][349]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/MainGIE4B4E4144356414B5DEE58A71EF9CB58.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/ThirdPersonBP/Blueprints/MainGI.uasset'
+[2018.11.28-01.26.38:092][ 95]LogEditorTransaction: Undo Change Class Pin Value
+[2018.11.28-01.26.53:083][840]BlueprintLog: New page: Compile MainGI
+[2018.11.28-01.26.53:645][869]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/MainGIB556F5CA4F44F428B642BFB956AAB4D1.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/ThirdPersonBP/Blueprints/MainGI.uasset'
+[2018.11.28-01.26.54:827][  1]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.28-01.26.54:854][  1]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.28-01.26.54:854][  1]PIE: New page: PIE session: MainMenu (Nov 27, 2018, 11:26:54 AM)
+[2018.11.28-01.26.54:854][  1]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu
+[2018.11.28-01.26.54:855][  1]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000474s)
+[2018.11.28-01.26.54:855][  1]LogAIModule: Creating AISystem for world MainMenu
+[2018.11.28-01.26.54:855][  1]LogPlayLevel: PIE: World Init took: (0.000477s)
+[2018.11.28-01.26.54:855][  1]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MainMenu.MainMenu to /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001025s)
+[2018.11.28-01.26.54:886][  1]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.28-01.26.54:896][  1]LogInit: FAudioDevice initialized.
+[2018.11.28-01.26.54:926][  1]LogLoad: Game class is 'MainMenuGM_C'
+[2018.11.28-01.26.54:927][  1]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.11.27-18.26.54
+[2018.11.28-01.26.54:927][  1]LogWorld: Bringing up level for play took: 0.000228
+[2018.11.28-01.26.54:940][  1]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu 0.625
+[2018.11.28-01.26.58:468][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-01.26.58:503][339]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.28-01.26.58:535][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-01.26.58:606][341]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2018.11.28-01.27.09:415][492]BlueprintLog: New page: Compile MainGI
+[2018.11.28-01.27.09:851][507]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/MainGIEA539F23458C98DCAB495DAF78475109.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/ThirdPersonBP/Blueprints/MainGI.uasset'
+[2018.11.28-01.27.10:574][587]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.28-01.27.10:600][587]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.28-01.27.10:601][587]PIE: New page: PIE session: MainMenu (Nov 27, 2018, 11:27:10 AM)
+[2018.11.28-01.27.10:601][587]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu
+[2018.11.28-01.27.10:601][587]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000481s)
+[2018.11.28-01.27.10:602][587]LogAIModule: Creating AISystem for world MainMenu
+[2018.11.28-01.27.10:602][587]LogPlayLevel: PIE: World Init took: (0.000470s)
+[2018.11.28-01.27.10:602][587]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MainMenu.MainMenu to /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001025s)
+[2018.11.28-01.27.10:633][587]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.28-01.27.10:642][587]LogInit: FAudioDevice initialized.
+[2018.11.28-01.27.10:673][587]LogLoad: Game class is 'MainMenuGM_C'
+[2018.11.28-01.27.10:674][587]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.11.27-18.27.10
+[2018.11.28-01.27.10:674][587]LogWorld: Bringing up level for play took: 0.000232
+[2018.11.28-01.27.10:687][587]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu 0.372
+[2018.11.28-01.27.14:514][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-01.27.14:545][978]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.28-01.27.14:576][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-01.27.14:650][980]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2018.11.28-01.27.16:318][140]LogEditorTransaction: Undo Create Pin Link
+[2018.11.28-01.27.16:767][182]LogEditorTransaction: Undo Create Pin Link
+[2018.11.28-01.27.17:351][248]LogEditorTransaction: Undo Break Pin Links
+[2018.11.28-01.27.17:993][321]LogEditorTransaction: Undo Create Pin Link
+[2018.11.28-01.27.18:347][360]LogEditorTransaction: Undo Break Pin Links
+[2018.11.28-01.27.43:082][916]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/MainMenu' took 0.029
+[2018.11.28-01.27.43:083][916]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/MainGI] ([1] browsable assets)...
+[2018.11.28-01.27.43:083][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/MainGI]
+[2018.11.28-01.27.43:104][916]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/MainGI_Auto84182CB1C4FF9013665A07498BD84E210.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/MainGI_Auto8.uasset'
+[2018.11.28-01.27.43:105][916]LogFileHelpers: Auto-saving content packages took 0.022
+[2018.11.28-01.27.57:390][701]BlueprintLog: New page: Compile MainGI
+[2018.11.28-01.27.58:019][737]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/MainGI11749C0D4BF3C593CC4230828B446E0D.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/ThirdPersonBP/Blueprints/MainGI.uasset'
+[2018.11.28-01.27.59:742][823]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.28-01.27.59:771][823]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.28-01.27.59:771][823]PIE: New page: PIE session: MainMenu (Nov 27, 2018, 11:27:59 AM)
+[2018.11.28-01.27.59:771][823]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu
+[2018.11.28-01.27.59:771][823]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000473s)
+[2018.11.28-01.27.59:772][823]LogAIModule: Creating AISystem for world MainMenu
+[2018.11.28-01.27.59:772][823]LogPlayLevel: PIE: World Init took: (0.000484s)
+[2018.11.28-01.27.59:772][823]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MainMenu.MainMenu to /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001031s)
+[2018.11.28-01.27.59:807][823]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.28-01.27.59:816][823]LogInit: FAudioDevice initialized.
+[2018.11.28-01.27.59:846][823]LogLoad: Game class is 'MainMenuGM_C'
+[2018.11.28-01.27.59:847][823]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.11.27-18.27.59
+[2018.11.28-01.27.59:847][823]LogWorld: Bringing up level for play took: 0.000249
+[2018.11.28-01.27.59:860][823]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu -0.455
+[2018.11.28-01.28.00:741][919]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-01.28.00:776][919]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.28-01.28.00:808][919]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-01.28.00:875][921]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2018.11.28-01.28.01:238][963]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.28-01.28.01:264][963]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.28-01.28.01:264][963]PIE: New page: PIE session: MainMenu (Nov 27, 2018, 11:28:01 AM)
+[2018.11.28-01.28.01:264][963]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu
+[2018.11.28-01.28.01:264][963]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000473s)
+[2018.11.28-01.28.01:265][963]LogAIModule: Creating AISystem for world MainMenu
+[2018.11.28-01.28.01:265][963]LogPlayLevel: PIE: World Init took: (0.000468s)
+[2018.11.28-01.28.01:265][963]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MainMenu.MainMenu to /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001015s)
+[2018.11.28-01.28.01:299][963]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.28-01.28.01:307][963]LogInit: FAudioDevice initialized.
+[2018.11.28-01.28.01:333][963]LogLoad: Game class is 'MainMenuGM_C'
+[2018.11.28-01.28.01:334][963]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.11.27-18.28.01
+[2018.11.28-01.28.01:334][963]LogWorld: Bringing up level for play took: 0.000242
+[2018.11.28-01.28.01:347][963]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu 1.032
+[2018.11.28-01.28.07:720][563]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-01.28.07:753][563]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.28-01.28.07:783][563]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-01.28.07:848][565]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2018.11.28-01.30.51:655][250]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.28-01.30.51:682][250]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.28-01.30.51:682][250]PIE: New page: PIE session: MainMenu (Nov 27, 2018, 11:30:51 AM)
+[2018.11.28-01.30.51:682][250]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu
+[2018.11.28-01.30.51:683][250]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000574s)
+[2018.11.28-01.30.51:683][250]LogAIModule: Creating AISystem for world MainMenu
+[2018.11.28-01.30.51:684][250]LogPlayLevel: PIE: World Init took: (0.000565s)
+[2018.11.28-01.30.51:684][250]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MainMenu.MainMenu to /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001221s)
+[2018.11.28-01.30.51:720][250]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.28-01.30.51:730][250]LogInit: FAudioDevice initialized.
+[2018.11.28-01.30.51:761][250]LogLoad: Game class is 'MainMenuGM_C'
+[2018.11.28-01.30.51:762][250]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.11.27-18.30.51
+[2018.11.28-01.30.51:762][250]LogWorld: Bringing up level for play took: 0.000239
+[2018.11.28-01.30.51:775][250]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu -0.54
+[2018.11.28-01.30.54:960][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-01.30.54:991][601]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.28-01.30.55:023][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-01.30.55:064][605]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2018.11.28-01.31.37:291][531]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.28-01.31.37:319][531]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.28-01.31.37:319][531]PIE: New page: PIE session: MainMenu (Nov 27, 2018, 11:31:37 AM)
+[2018.11.28-01.31.37:319][531]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu
+[2018.11.28-01.31.37:320][531]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000508s)
+[2018.11.28-01.31.37:320][531]LogAIModule: Creating AISystem for world MainMenu
+[2018.11.28-01.31.37:320][531]LogPlayLevel: PIE: World Init took: (0.000491s)
+[2018.11.28-01.31.37:320][531]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MainMenu.MainMenu to /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001073s)
+[2018.11.28-01.31.37:355][531]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.28-01.31.37:365][531]LogInit: FAudioDevice initialized.
+[2018.11.28-01.31.37:400][531]LogLoad: Game class is 'MainMenuGM_C'
+[2018.11.28-01.31.37:401][531]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.11.27-18.31.37
+[2018.11.28-01.31.37:401][531]LogWorld: Bringing up level for play took: 0.000331
+[2018.11.28-01.31.37:414][531]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu 1.1
+[2018.11.28-01.31.42:486][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-01.31.42:518][ 87]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.28-01.31.42:549][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-01.31.42:592][ 91]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2018.11.28-01.31.47:217][576]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2018.11.28-01.31.47:217][576]LogLinker: Warning: Can't find file 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial'
+[2018.11.28-01.31.47:217][576]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2018.11.28-01.31.47:217][576]LogLinker: Warning: Can't find file 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial'
+[2018.11.28-01.31.47:217][576]LogUObjectGlobals: Warning: Failed to find object 'Blueprint Engine/Tutorial/Installation/InstallingVisualStudioTutorial.InstallingVisualStudioTutorial'
+[2018.11.28-01.31.53:490][314]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/MainGIFC2414CB4E7167AFA1CE7A8E69A41511.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/ThirdPersonBP/Blueprints/MainGI.uasset'
+[2018.11.28-01.32.25:617][769]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.28-01.32.25:654][769]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.28-01.32.25:654][769]PIE: New page: PIE session: MainMenu (Nov 27, 2018, 11:32:25 AM)
+[2018.11.28-01.32.25:654][769]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu
+[2018.11.28-01.32.25:655][769]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000508s)
+[2018.11.28-01.32.25:655][769]LogAIModule: Creating AISystem for world MainMenu
+[2018.11.28-01.32.25:655][769]LogPlayLevel: PIE: World Init took: (0.000475s)
+[2018.11.28-01.32.25:655][769]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MainMenu.MainMenu to /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001060s)
+[2018.11.28-01.32.25:689][769]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.28-01.32.25:699][769]LogInit: FAudioDevice initialized.
+[2018.11.28-01.32.25:733][769]LogLoad: Game class is 'MainMenuGM_C'
+[2018.11.28-01.32.25:734][769]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.11.27-18.32.25
+[2018.11.28-01.32.25:734][769]LogWorld: Bringing up level for play took: 0.000353
+[2018.11.28-01.32.25:746][769]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu -0.568
+[2018.11.28-01.32.27:833][985]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-01.32.27:916][995]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_ShowSerachGames', from offset 10
+[2018.11.28-01.32.27:916][995]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/UI/MainMenu.MainMenu_C:BndEvt__Button_149_K2Node_ComponentBoundEvent_1_OnButtonClickedEvent__DelegateSignature
+	Function /Game/UI/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+
+[2018.11.28-01.32.29:938][995]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-01.32.29:970][995]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.28-01.32.30:000][995]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-01.32.30:017][996]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2018.11.28-01.32.46:862][822]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.28-01.32.46:890][822]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.28-01.32.46:890][822]PIE: New page: PIE session: MainMenu (Nov 27, 2018, 11:32:46 AM)
+[2018.11.28-01.32.46:890][822]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu
+[2018.11.28-01.32.46:891][822]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000509s)
+[2018.11.28-01.32.46:891][822]LogAIModule: Creating AISystem for world MainMenu
+[2018.11.28-01.32.46:891][822]LogPlayLevel: PIE: World Init took: (0.000483s)
+[2018.11.28-01.32.46:891][822]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MainMenu.MainMenu to /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001068s)
+[2018.11.28-01.32.46:922][822]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.28-01.32.46:932][822]LogInit: FAudioDevice initialized.
+[2018.11.28-01.32.46:967][822]LogLoad: Game class is 'MainMenuGM_C'
+[2018.11.28-01.32.46:968][822]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.11.27-18.32.46
+[2018.11.28-01.32.46:968][822]LogWorld: Bringing up level for play took: 0.000349
+[2018.11.28-01.32.46:981][822]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu 0.666
+[2018.11.28-01.32.53:049][301]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_CustomEvent', from offset 0
+[2018.11.28-01.32.53:049][301]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/UI/MainMenu.MainMenu_C:BndEvt__Button_149_K2Node_ComponentBoundEvent_1_OnButtonClickedEvent__DelegateSignature
+	Function /Game/UI/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+	Function /Game/ThirdPersonBP/Blueprints/MainGI.MainGI_C:ShowSerachGames
+
+[2018.11.28-01.32.54:878][301]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-01.32.54:910][301]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.28-01.32.54:942][301]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-01.32.54:958][302]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2018.11.28-01.33.21:454][450]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.28-01.33.21:482][450]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.28-01.33.21:482][450]PIE: New page: PIE session: MainMenu (Nov 27, 2018, 11:33:21 AM)
+[2018.11.28-01.33.21:482][450]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu
+[2018.11.28-01.33.21:483][450]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000507s)
+[2018.11.28-01.33.21:483][450]LogAIModule: Creating AISystem for world MainMenu
+[2018.11.28-01.33.21:483][450]LogPlayLevel: PIE: World Init took: (0.000482s)
+[2018.11.28-01.33.21:484][450]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MainMenu.MainMenu to /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001069s)
+[2018.11.28-01.33.21:519][450]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.28-01.33.21:528][450]LogInit: FAudioDevice initialized.
+[2018.11.28-01.33.21:563][450]LogLoad: Game class is 'MainMenuGM_C'
+[2018.11.28-01.33.21:564][450]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.11.27-18.33.21
+[2018.11.28-01.33.21:564][450]LogWorld: Bringing up level for play took: 0.000406
+[2018.11.28-01.33.21:577][450]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu -0.738
+[2018.11.28-01.33.22:911][595]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_CreateWidget', from offset 272
+[2018.11.28-01.33.22:911][595]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/UI/MainMenu.MainMenu_C:BndEvt__Button_149_K2Node_ComponentBoundEvent_1_OnButtonClickedEvent__DelegateSignature
+	Function /Game/UI/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+	Function /Game/ThirdPersonBP/Blueprints/MainGI.MainGI_C:ShowSerachGames
+	Function /Game/ThirdPersonBP/Blueprints/MainGI.MainGI_C:ExecuteUbergraph_MainGI
+
+[2018.11.28-01.33.37:021][595]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-01.33.37:050][595]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.28-01.33.37:083][595]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-01.33.37:098][596]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2018.11.28-01.33.41:614][128]BlueprintLog: New page: Compile MainGI
+[2018.11.28-01.33.43:318][302]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/MainGICD8D2F7646C4747769FF179A8A65222B.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/ThirdPersonBP/Blueprints/MainGI.uasset'
+[2018.11.28-01.33.45:537][565]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.28-01.33.45:564][565]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.28-01.33.45:564][565]PIE: New page: PIE session: MainMenu (Nov 27, 2018, 11:33:45 AM)
+[2018.11.28-01.33.45:564][565]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu
+[2018.11.28-01.33.45:565][565]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000470s)
+[2018.11.28-01.33.45:565][565]LogAIModule: Creating AISystem for world MainMenu
+[2018.11.28-01.33.45:565][565]LogPlayLevel: PIE: World Init took: (0.000481s)
+[2018.11.28-01.33.45:565][565]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MainMenu.MainMenu to /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001024s)
+[2018.11.28-01.33.45:601][565]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.28-01.33.45:610][565]LogInit: FAudioDevice initialized.
+[2018.11.28-01.33.45:637][565]LogLoad: Game class is 'MainMenuGM_C'
+[2018.11.28-01.33.45:638][565]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.11.27-18.33.45
+[2018.11.28-01.33.45:638][565]LogWorld: Bringing up level for play took: 0.000232
+[2018.11.28-01.33.45:651][565]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu -0.664
+[2018.11.28-01.33.46:207][631]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_AddToViewport', from offset 178
+[2018.11.28-01.33.46:207][631]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/UI/MainMenu.MainMenu_C:BndEvt__Button_149_K2Node_ComponentBoundEvent_1_OnButtonClickedEvent__DelegateSignature
+	Function /Game/UI/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+	Function /Game/ThirdPersonBP/Blueprints/MainGI.MainGI_C:ShowSerachGames
+	Function /Game/ThirdPersonBP/Blueprints/MainGI.MainGI_C:ExecuteUbergraph_MainGI
+
+[2018.11.28-01.33.48:572][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-01.33.48:602][631]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.28-01.33.48:634][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-01.33.48:647][632]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2018.11.28-01.33.50:641][869]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.28-01.33.50:668][869]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.28-01.33.50:668][869]PIE: New page: PIE session: MainMenu (Nov 27, 2018, 11:33:50 AM)
+[2018.11.28-01.33.50:668][869]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu
+[2018.11.28-01.33.50:669][869]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000470s)
+[2018.11.28-01.33.50:669][869]LogAIModule: Creating AISystem for world MainMenu
+[2018.11.28-01.33.50:669][869]LogPlayLevel: PIE: World Init took: (0.000478s)
+[2018.11.28-01.33.50:669][869]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MainMenu.MainMenu to /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001022s)
+[2018.11.28-01.33.50:700][869]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.28-01.33.50:709][869]LogInit: FAudioDevice initialized.
+[2018.11.28-01.33.50:736][869]LogLoad: Game class is 'MainMenuGM_C'
+[2018.11.28-01.33.50:737][869]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.11.27-18.33.50
+[2018.11.28-01.33.50:737][869]LogWorld: Bringing up level for play took: 0.000233
+[2018.11.28-01.33.50:750][869]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu 0.435
+[2018.11.28-01.33.53:949][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-01.33.53:978][252]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.28-01.33.54:009][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-01.33.54:048][256]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2018.11.28-01.33.59:919][941]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/MainGI21A623AD4E07A6AB505573BA854400C9.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/ThirdPersonBP/Blueprints/MainGI.uasset'
+[2018.11.28-01.34.44:995][295]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/MainMenu075382964D4A1AD0A15972B625E59BAD.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/ThirdPersonBP/Maps/MainMenu.umap'
+[2018.11.28-01.34.51:094][693]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.11.28-01.34.51:144][694]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MightyNight
+[2018.11.28-01.34.51:145][694]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.11.28-01.34.51:145][694]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.20
+[2018.11.28-01.34.51:145][694]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.11.28-01.34.51:145][694]LogTemp: BranchPath = eae-d-185/C/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = eae-d-185/C/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2018.11.28-01.34.51:165][695]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\u1218984\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.11.28-01.36.07:276][ 96]LogSlate: Window 'Project Settings' being destroyed
+[2018.11.28-01.36.07:279][ 96]LogSlate: Window 'Project Settings' being destroyed
+[2018.11.28-01.38.52:478][133]LogEditorViewport: Clicking Background
+[2018.11.28-01.38.54:722][397]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-01.39.19:374][ 95]LogSlate: Window 'Save Content' being destroyed
+[2018.11.28-01.39.19:390][ 95]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/MainMenu.uasset" SILENT=true
+[2018.11.28-01.39.19:412][ 95]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/MainMenuC631FD3A4661673CE67432AF596CA404.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/MainMenu.uasset'
+[2018.11.28-01.39.28:565][325]LogTemp: Repeating last play command: Standalone Game
+[2018.11.28-01.41.02:248][544]LogTemp: Repeating last play command: Standalone Game
+[2018.11.28-01.42.42:669][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/SearchGames" FILE="../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/SearchGames.uasset" SILENT=true
+[2018.11.28-01.42.42:696][482]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/SearchGames6B9141414F1FCA8A98BA2FBF2A794F92.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/UI/SearchGames.uasset'
+[2018.11.28-01.42.43:112][523]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/MainMenuBC97FADF41F1AF276C39B29E55A7EC10.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/ThirdPersonBP/Maps/MainMenu.umap'
+[2018.11.28-01.42.46:538][928]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-01.42.49:486][267]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.28-01.42.49:528][267]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Saved/MainMenu801F510149BDD6447AEBEC92C168E2AC.tmp' to '../../../../../../Users/u1218984/Documents/Unreal Projects/MightyNight/Content/ThirdPersonBP/Maps/MainMenu.umap'
+[2018.11.28-01.42.50:380][365]LogSlate: Window 'ThirdPersonGameMode' being destroyed
+[2018.11.28-01.42.50:383][365]LogSlate: Window 'ThirdPersonGameMode' being destroyed
+[2018.11.28-01.42.50:610][365]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.11.28-02.43.10:931][411]LogSlate: Window 'MightyNight - Unreal Editor' being destroyed
+[2018.11.28-02.43.11:105][412]Cmd: QUIT_EDITOR
+[2018.11.28-02.43.12:008][412]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.28-02.43.12:019][412]LogExit: Preparing to exit.
+[2018.11.28-02.43.13:048][412]LogExit: Editor shut down
+[2018.11.28-02.43.13:048][412]LogExit: Transaction tracking system shut down
+[2018.11.28-02.43.13:493][412]LogExit: Object subsystem successfully closed.
+[2018.11.28-02.43.13:511][412]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.11.28-02.43.13:514][412]LogD3D11RHI: Shutdown
+[2018.11.28-02.43.13:514][412]LogD3D11RHI: CleanupD3DDevice
+[2018.11.28-02.43.13:520][412]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.11.28-02.43.13:538][412]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (626)
+[2018.11.28-02.43.13:538][412]LogModuleManager: Shutting down and abandoning module Voice (624)
+[2018.11.28-02.43.13:538][412]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (622)
+[2018.11.28-02.43.13:538][412]LogModuleManager: Shutting down and abandoning module SequencerWidgets (620)
+[2018.11.28-02.43.13:538][412]LogModuleManager: Shutting down and abandoning module BlueprintGraph (618)
+[2018.11.28-02.43.13:538][412]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (616)
+[2018.11.28-02.43.13:538][412]LogModuleManager: Shutting down and abandoning module NewLevelDialog (614)
+[2018.11.28-02.43.13:539][412]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (612)
+[2018.11.28-02.43.13:539][412]LogModuleManager: Shutting down and abandoning module AddContentDialog (610)
+[2018.11.28-02.43.13:539][412]LogModuleManager: Shutting down and abandoning module WidgetCarousel (609)
+[2018.11.28-02.43.13:539][412]LogModuleManager: Shutting down and abandoning module EditorWidgets (606)
+[2018.11.28-02.43.13:539][412]LogModuleManager: Shutting down and abandoning module CollectionManager (604)
+[2018.11.28-02.43.13:539][412]LogModuleManager: Shutting down and abandoning module SceneOutliner (602)
+[2018.11.28-02.43.13:539][412]LogModuleManager: Shutting down and abandoning module StatsViewer (600)
+[2018.11.28-02.43.13:539][412]LogModuleManager: Shutting down and abandoning module FoliageEdit (598)
+[2018.11.28-02.43.13:539][412]LogModuleManager: Shutting down and abandoning module LandscapeEditor (596)
+[2018.11.28-02.43.13:539][412]LogModuleManager: Shutting down and abandoning module MeshPaintMode (594)
+[2018.11.28-02.43.13:539][412]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (592)
+[2018.11.28-02.43.13:539][412]LogModuleManager: Shutting down and abandoning module ActorPickerMode (590)
+[2018.11.28-02.43.13:539][412]LogModuleManager: Shutting down and abandoning module GeometryMode (588)
+[2018.11.28-02.43.13:539][412]LogModuleManager: Shutting down and abandoning module TextureAlignMode (586)
+[2018.11.28-02.43.13:539][412]LogModuleManager: Shutting down and abandoning module BspMode (584)
+[2018.11.28-02.43.13:539][412]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (582)
+[2018.11.28-02.43.13:539][412]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (580)
+[2018.11.28-02.43.13:539][412]LogModuleManager: Shutting down and abandoning module AutomationWorker (578)
+[2018.11.28-02.43.13:539][412]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (576)
+[2018.11.28-02.43.13:539][412]LogModuleManager: Shutting down and abandoning module SequenceRecorder (575)
+[2018.11.28-02.43.13:539][412]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (572)
+[2018.11.28-02.43.13:539][412]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (570)
+[2018.11.28-02.43.13:539][412]LogModuleManager: Shutting down and abandoning module PlacementMode (569)
+[2018.11.28-02.43.13:539][412]LogModuleManager: Shutting down and abandoning module MaterialEditor (568)
+[2018.11.28-02.43.13:539][412]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (564)
+[2018.11.28-02.43.13:539][412]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (562)
+[2018.11.28-02.43.13:539][412]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (560)
+[2018.11.28-02.43.13:539][412]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (558)
+[2018.11.28-02.43.13:539][412]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (556)
+[2018.11.28-02.43.13:539][412]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (554)
+[2018.11.28-02.43.13:539][412]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (552)
+[2018.11.28-02.43.13:539][412]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (550)
+[2018.11.28-02.43.13:539][412]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (548)
+[2018.11.28-02.43.13:539][412]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (546)
+[2018.11.28-02.43.13:540][412]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (544)
+[2018.11.28-02.43.13:540][412]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (542)
+[2018.11.28-02.43.13:540][412]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (540)
+[2018.11.28-02.43.13:540][412]LogModuleManager: Shutting down and abandoning module CharacterAI (538)
+[2018.11.28-02.43.13:540][412]LogModuleManager: Shutting down and abandoning module SmartSnapping (536)
+[2018.11.28-02.43.13:540][412]LogModuleManager: Shutting down and abandoning module SessionServices (534)
+[2018.11.28-02.43.13:540][412]LogModuleManager: Shutting down and abandoning module ViewportSnapping (532)
+[2018.11.28-02.43.13:540][412]LogModuleManager: Shutting down and abandoning module ViewportInteraction (530)
+[2018.11.28-02.43.13:540][412]LogModuleManager: Shutting down and abandoning module ClothPainter (528)
+[2018.11.28-02.43.13:540][412]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (527)
+[2018.11.28-02.43.13:540][412]LogModuleManager: Shutting down and abandoning module LogVisualizer (524)
+[2018.11.28-02.43.13:540][412]LogModuleManager: Shutting down and abandoning module IntroTutorials (522)
+[2018.11.28-02.43.13:540][412]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (521)
+[2018.11.28-02.43.13:540][412]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (518)
+[2018.11.28-02.43.13:540][412]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (516)
+[2018.11.28-02.43.13:540][412]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (514)
+[2018.11.28-02.43.13:540][412]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (512)
+[2018.11.28-02.43.13:540][412]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (511)
+[2018.11.28-02.43.15:143][412]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (508)
+[2018.11.28-02.43.15:143][412]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (506)
+[2018.11.28-02.43.15:143][412]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (504)
+[2018.11.28-02.43.15:143][412]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (502)
+[2018.11.28-02.43.15:143][412]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2018.11.28-02.43.15:143][412]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2018.11.28-02.43.15:143][412]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2018.11.28-02.43.15:143][412]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2018.11.28-02.43.15:143][412]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2018.11.28-02.43.15:143][412]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2018.11.28-02.43.15:143][412]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2018.11.28-02.43.15:143][412]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2018.11.28-02.43.15:143][412]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2018.11.28-02.43.15:143][412]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2018.11.28-02.43.15:143][412]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2018.11.28-02.43.15:143][412]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2018.11.28-02.43.15:143][412]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2018.11.28-02.43.15:144][412]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2018.11.28-02.43.15:144][412]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2018.11.28-02.43.15:144][412]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2018.11.28-02.43.15:144][412]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2018.11.28-02.43.15:144][412]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2018.11.28-02.43.15:208][412]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2018.11.28-02.43.15:208][412]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2018.11.28-02.43.15:208][412]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2018.11.28-02.43.15:208][412]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2018.11.28-02.43.15:208][412]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2018.11.28-02.43.15:208][412]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2018.11.28-02.43.15:208][412]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2018.11.28-02.43.15:208][412]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2018.11.28-02.43.15:208][412]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2018.11.28-02.43.15:208][412]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2018.11.28-02.43.15:212][412]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2018.11.28-02.43.15:212][412]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2018.11.28-02.43.15:213][412]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2018.11.28-02.43.15:213][412]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2018.11.28-02.43.15:213][412]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2018.11.28-02.43.15:213][412]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2018.11.28-02.43.15:213][412]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2018.11.28-02.43.15:213][412]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2018.11.28-02.43.15:213][412]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2018.11.28-02.43.15:213][412]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2018.11.28-02.43.15:213][412]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2018.11.28-02.43.15:213][412]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2018.11.28-02.43.15:213][412]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2018.11.28-02.43.15:213][412]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2018.11.28-02.43.15:213][412]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2018.11.28-02.43.15:213][412]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2018.11.28-02.43.15:213][412]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2018.11.28-02.43.15:213][412]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2018.11.28-02.43.15:213][412]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2018.11.28-02.43.15:213][412]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2018.11.28-02.43.15:213][412]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2018.11.28-02.43.15:213][412]LogModuleManager: Shutting down and abandoning module ProfilerService (402)
+[2018.11.28-02.43.15:226][412]LogModuleManager: Shutting down and abandoning module TaskGraph (400)
+[2018.11.28-02.43.15:226][412]LogModuleManager: Shutting down and abandoning module SteamVRController (398)
+[2018.11.28-02.43.15:226][412]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (396)
+[2018.11.28-02.43.15:226][412]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (394)
+[2018.11.28-02.43.15:226][412]LogModuleManager: Shutting down and abandoning module OculusInput (392)
+[2018.11.28-02.43.15:226][412]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (390)
+[2018.11.28-02.43.15:226][412]LogModuleManager: Shutting down and abandoning module EditableMesh (388)
+[2018.11.28-02.43.15:226][412]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (386)
+[2018.11.28-02.43.15:226][412]LogModuleManager: Shutting down and abandoning module CableComponent (384)
+[2018.11.28-02.43.15:226][412]LogModuleManager: Shutting down and abandoning module AudioCapture (382)
+[2018.11.28-02.43.15:226][412]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (380)
+[2018.11.28-02.43.15:226][412]LogModuleManager: Shutting down and abandoning module AndroidPermission (378)
+[2018.11.28-02.43.15:226][412]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (376)
+[2018.11.28-02.43.15:226][412]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (374)
+[2018.11.28-02.43.15:226][412]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (372)
+[2018.11.28-02.43.15:226][412]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2018.11.28-02.43.15:226][412]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2018.11.28-02.43.15:226][412]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2018.11.28-02.43.15:229][412]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2018.11.28-02.43.15:229][412]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2018.11.28-02.43.15:229][412]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2018.11.28-02.43.15:229][412]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2018.11.28-02.43.15:229][412]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2018.11.28-02.43.15:229][412]LogModuleManager: Shutting down and abandoning module AppleImageUtils (354)
+[2018.11.28-02.43.15:229][412]LogModuleManager: Shutting down and abandoning module AlembicImporter (352)
+[2018.11.28-02.43.15:229][412]LogModuleManager: Shutting down and abandoning module AlembicLibrary (351)
+[2018.11.28-02.43.15:229][412]LogModuleManager: Shutting down and abandoning module GeometryCache (350)
+[2018.11.28-02.43.15:229][412]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (349)
+[2018.11.28-02.43.15:229][412]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (344)
+[2018.11.28-02.43.15:229][412]LogModuleManager: Shutting down and abandoning module DatasmithContent (342)
+[2018.11.28-02.43.15:229][412]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (340)
+[2018.11.28-02.43.15:229][412]LogModuleManager: Shutting down and abandoning module PluginBrowser (338)
+[2018.11.28-02.43.15:229][412]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (336)
+[2018.11.28-02.43.15:229][412]LogModuleManager: Shutting down and abandoning module PolygonModeling (334)
+[2018.11.28-02.43.15:229][412]LogModuleManager: Shutting down and abandoning module MeshEditor (332)
+[2018.11.28-02.43.15:229][412]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (330)
+[2018.11.28-02.43.15:229][412]LogModuleManager: Shutting down and abandoning module CryptoKeys (328)
+[2018.11.28-02.43.15:229][412]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (326)
+[2018.11.28-02.43.15:229][412]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (324)
+[2018.11.28-02.43.15:229][412]LogModuleManager: Shutting down and abandoning module UObjectPlugin (322)
+[2018.11.28-02.43.15:229][412]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (320)
+[2018.11.28-02.43.15:229][412]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (318)
+[2018.11.28-02.43.15:230][412]LogModuleManager: Shutting down and abandoning module GitSourceControl (316)
+[2018.11.28-02.43.15:230][412]LogModuleManager: Shutting down and abandoning module SourceControl (315)
+[2018.11.28-02.43.15:230][412]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (312)
+[2018.11.28-02.43.15:230][412]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (310)
+[2018.11.28-02.43.15:230][412]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (308)
+[2018.11.28-02.43.15:230][412]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (306)
+[2018.11.28-02.43.15:230][412]LogModuleManager: Shutting down and abandoning module Paper2DEditor (304)
+[2018.11.28-02.43.15:230][412]LogModuleManager: Shutting down and abandoning module MeshPaint (303)
+[2018.11.28-02.43.15:230][412]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (300)
+[2018.11.28-02.43.15:230][412]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (298)
+[2018.11.28-02.43.15:230][412]LogModuleManager: Shutting down and abandoning module PhysXVehicles (296)
+[2018.11.28-02.43.15:230][412]LogModuleManager: Shutting down and abandoning module OculusEditor (294)
+[2018.11.28-02.43.15:230][412]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (292)
+[2018.11.28-02.43.15:230][412]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (290)
+[2018.11.28-02.43.15:230][412]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (288)
+[2018.11.28-02.43.15:230][412]LogModuleManager: Shutting down and abandoning module ActorSequence (286)
+[2018.11.28-02.43.15:230][412]LogModuleManager: Shutting down and abandoning module UdpMessaging (284)
+[2018.11.28-02.43.15:330][412]LogModuleManager: Shutting down and abandoning module TcpMessaging (282)
+[2018.11.28-02.43.15:430][412]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (280)
+[2018.11.28-02.43.15:430][412]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2018.11.28-02.43.15:430][412]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2018.11.28-02.43.15:430][412]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2018.11.28-02.43.15:430][412]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2018.11.28-02.43.15:430][412]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2018.11.28-02.43.15:430][412]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2018.11.28-02.43.15:430][412]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2018.11.28-02.43.15:430][412]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2018.11.28-02.43.15:430][412]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2018.11.28-02.43.15:431][412]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2018.11.28-02.43.15:431][412]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2018.11.28-02.43.15:432][412]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2018.11.28-02.43.15:432][412]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (254)
+[2018.11.28-02.43.15:432][412]LogModuleManager: Shutting down and abandoning module AISupportModule (252)
+[2018.11.28-02.43.15:432][412]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2018.11.28-02.43.15:432][412]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2018.11.28-02.43.15:432][412]LogModuleManager: Shutting down and abandoning module WmfMedia (246)
+[2018.11.28-02.43.15:433][412]LogModuleManager: Shutting down and abandoning module Media (245)
+[2018.11.28-02.43.15:439][412]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2018.11.28-02.43.15:439][412]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2018.11.28-02.43.15:439][412]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2018.11.28-02.43.15:439][412]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2018.11.28-02.43.15:439][412]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2018.11.28-02.43.15:439][412]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2018.11.28-02.43.15:439][412]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2018.11.28-02.43.15:439][412]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2018.11.28-02.43.15:439][412]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2018.11.28-02.43.15:439][412]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2018.11.28-02.43.15:439][412]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2018.11.28-02.43.15:439][412]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2018.11.28-02.43.15:439][412]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2018.11.28-02.43.15:439][412]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2018.11.28-02.43.15:439][412]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2018.11.28-02.43.15:439][412]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2018.11.28-02.43.15:439][412]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2018.11.28-02.43.15:439][412]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2018.11.28-02.43.15:439][412]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2018.11.28-02.43.15:440][412]LogModuleManager: Shutting down and abandoning module EditorStyle (202)
+[2018.11.28-02.43.15:441][412]LogModuleManager: Shutting down and abandoning module MRMesh (200)
+[2018.11.28-02.43.15:441][412]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (198)
+[2018.11.28-02.43.15:441][412]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (196)
+[2018.11.28-02.43.15:441][412]LogModuleManager: Shutting down and abandoning module XAudio2 (194)
+[2018.11.28-02.43.15:441][412]LogModuleManager: Shutting down and abandoning module Networking (192)
+[2018.11.28-02.43.15:441][412]LogModuleManager: Shutting down and abandoning module Core (190)
+[2018.11.28-02.43.15:441][412]LogModuleManager: Shutting down and abandoning module LevelSequence (188)
+[2018.11.28-02.43.15:441][412]LogModuleManager: Shutting down and abandoning module KismetCompiler (186)
+[2018.11.28-02.43.15:441][412]LogModuleManager: Shutting down and abandoning module MeshUtilities (184)
+[2018.11.28-02.43.15:441][412]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (183)
+[2018.11.28-02.43.15:441][412]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (182)
+[2018.11.28-02.43.15:441][412]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (181)
+[2018.11.28-02.43.15:441][412]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (179)
+[2018.11.28-02.43.15:441][412]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (177)
+[2018.11.28-02.43.15:441][412]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2018.11.28-02.43.15:441][412]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2018.11.28-02.43.15:441][412]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (167)
+[2018.11.28-02.43.15:441][412]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2018.11.28-02.43.15:456][412]LogDerivedDataCache: Shutdown
+[2018.11.28-02.43.15:456][412]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2018.11.28-02.43.15:456][412]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2018.11.28-02.43.15:456][412]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2018.11.28-02.43.15:456][412]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2018.11.28-02.43.15:456][412]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2018.11.28-02.43.15:456][412]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2018.11.28-02.43.15:456][412]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2018.11.28-02.43.15:456][412]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2018.11.28-02.43.15:456][412]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2018.11.28-02.43.15:456][412]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2018.11.28-02.43.15:456][412]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2018.11.28-02.43.15:456][412]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2018.11.28-02.43.15:456][412]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2018.11.28-02.43.15:456][412]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2018.11.28-02.43.15:456][412]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2018.11.28-02.43.15:456][412]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2018.11.28-02.43.15:456][412]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2018.11.28-02.43.15:456][412]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2018.11.28-02.43.15:456][412]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2018.11.28-02.43.15:456][412]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2018.11.28-02.43.15:457][412]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2018.11.28-02.43.15:457][412]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2018.11.28-02.43.15:457][412]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2018.11.28-02.43.15:457][412]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2018.11.28-02.43.15:457][412]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2018.11.28-02.43.15:458][412]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2018.11.28-02.43.15:458][412]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2018.11.28-02.43.15:462][412]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2018.11.28-02.43.15:462][412]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2018.11.28-02.43.15:462][412]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2018.11.28-02.43.15:462][412]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2018.11.28-02.43.15:462][412]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2018.11.28-02.43.15:462][412]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2018.11.28-02.43.15:462][412]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2018.11.28-02.43.15:462][412]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2018.11.28-02.43.15:462][412]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2018.11.28-02.43.15:462][412]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2018.11.28-02.43.15:462][412]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2018.11.28-02.43.15:462][412]LogModuleManager: Shutting down and abandoning module PhysXCooking (86)
+[2018.11.28-02.43.15:462][412]LogModuleManager: Shutting down and abandoning module SteamVR (84)
+[2018.11.28-02.43.15:462][412]LogModuleManager: Shutting down and abandoning module OculusHMD (82)
+[2018.11.28-02.43.15:462][412]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (80)
+[2018.11.28-02.43.15:462][412]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (78)
+[2018.11.28-02.43.15:462][412]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (76)
+[2018.11.28-02.43.15:462][412]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (72)
+[2018.11.28-02.43.15:462][412]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.11.28-02.43.15:463][412]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.11.28-02.43.15:474][412]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.11.28-02.43.15:474][412]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.11.28-02.43.15:474][412]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1AC98D59-402F-E4DF-3739-C29CD242C536%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4212847%2B%2B%2BUE4%2BRelease-4.20&UserID=dc52a13f4240b0ac12f8cf9821ba3f30%7C811bd0c0426340ad86f35240c1fb3480%7Cca3921b2-e1a9-4870-b450-16b09fd9ddc5&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.11.28-02.43.15:494][412]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.11.28-02.43.15:495][412]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.11.28-02.43.15:495][412]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.11.28-02.43.15:495][412]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.11.28-02.43.15:495][412]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.11.28-02.43.15:495][412]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.11.28-02.43.15:495][412]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.11.28-02.43.15:495][412]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.11.28-02.43.15:495][412]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.11.28-02.43.15:495][412]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.11.28-02.43.15:495][412]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.11.28-02.43.15:495][412]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.11.28-02.43.15:495][412]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.11.28-02.43.15:496][412]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.11.28-02.43.15:496][412]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.11.28-02.43.15:496][412]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.11.28-02.43.15:496][412]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.11.28-02.43.15:496][412]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.11.28-02.43.15:496][412]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.11.28-02.43.15:496][412]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.11.28-02.43.15:496][412]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.11.28-02.43.15:496][412]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.11.28-02.43.15:496][412]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.11.28-02.43.15:496][412]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.11.28-02.43.15:496][412]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.11.28-02.43.15:496][412]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.11.28-02.43.15:496][412]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.11.28-02.43.15:496][412]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.11.28-02.43.15:496][412]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.11.28-02.43.15:496][412]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.11.28-02.43.15:500][412]LogExit: Exiting.
+[2018.11.28-02.43.15:528][412]Log file closed, 11/27/18 19:43:15
